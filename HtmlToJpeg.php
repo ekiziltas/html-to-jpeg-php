@@ -1,9 +1,9 @@
 <?php
 
 /**
- * @author Eray Akartuna - http://github.com/erayakartuna
+ * @author Eray KIZILTAŞ - https://github.com/ekiziltas
  * Class HtmlToJpeg
- * Html To Jpeg Converter With html2canvas javascript library
+ * Html2Canvas javascript library
  */
 class HtmlToJpeg
 {
